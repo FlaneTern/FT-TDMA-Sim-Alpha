@@ -403,7 +403,9 @@ FodyWeavers.xsd
 # My Additions
 *.sln
 *.vcxproj
+*.vcxproj.filters
 bin-itm/
+bin/
 
 FT-TDMA-Sim/Makefile/
 Makefile
